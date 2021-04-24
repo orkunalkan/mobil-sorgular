@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719569958212",
+    "firebase_url": "https://mobil-sorgular-24ae9-default-rtdb.firebaseio.com",
+    "project_id": "mobil-sorgular-24ae9",
+    "storage_bucket": "mobil-sorgular-24ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719569958212:android:5b7de32c079112be8a5311",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719569958212-0k2r2npkijvqef2mklqa2aur2926qaoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdPSU2ek63N5T51bXI52ks-XYfQA8LQ1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719569958212-0k2r2npkijvqef2mklqa2aur2926qaoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
